@@ -1,6 +1,6 @@
 # Nice try, curious human! 🧐
 
-## This one is a training prop. A real unknown QR may not be so friendly.
+## This one is a training prop. A real unknown QR Code may not be so friendly.
 
 ## 🚩 Red Flags Before You Scan
 
@@ -8,7 +8,7 @@
 
 ⚠ URL has misspellings or odd domains (.ru, .xyz)
 
-⚠ Urgency: "act now," "expires today"
+⚠ Urgency: "act now", "expires today"
 
 ⚠ Unexpected QR in an email or text
 
