@@ -1,4 +1,4 @@
-# 🪝 You've Been Phished
+# Nice try, curious human! This one is a training prop. A real unknown QR might not be so friendly.
 
 ## 🚩 Red Flags Before You Scan
 
